@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import {Grid} from 'metro4-react/src'
+import {Grid} from 'metro4-react'
 
 class App extends Component {
     render() {
